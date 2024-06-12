@@ -1,0 +1,2 @@
+# Colleges-Enquiry-Chat-Bot-Using-Full-Stack-Python-and-Artificial-Intelligence-or-Machine-Learning
+Frontend: User-friendly interface (Flask/Django) for text-based interaction. Backend: Python with NLTK for Natural Language Processing (NLP). Optional Machine Learning: Improves responses over time (Intent Classification, Entity Recognition). Database: Stores college information (courses, fees, etc.) for retrieval. Benefits:  24/7 Availabilibility 
